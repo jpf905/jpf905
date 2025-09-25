@@ -2,21 +2,19 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an experienced mathematician with a passion for detailed cybersecurity. I am experienced in programming, cybersecurity, and machine learning.
+I am an experienced mathematician with a passion for data science, cybersecuirty, and artifical intelligence.  I am particularly interested in the connection 
 
-## Objective
-My journey from mathematics to programming has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a company as a cybersecurity analyst and penetration tester.
-## Skills
+→ Engaged online community across multiple platforms  <br>
+→ Regular content production with a focus on practical data science tips and business strategies <br>
+
+## My skills
+→ Data cleaning, exploration, analysis, and visualization (Python) <br>
+→ big data (PySpark) <br>
+→ ML Engineering (MLFlow, FastAPI, Docker)  <br>
+→ MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
+→ Database management (MySQL, PostgreSQL) <br>
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | 
-| Network Traffic Monitoring and Attack Detection 
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
-| Scripting and Automation for Threat Mitigation | 
 
 ## Tools
 
