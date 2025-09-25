@@ -18,7 +18,7 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ### Cybersecurity
 → SIEM platforms (Splunk, Elastic Stack) <br>
-→ Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort) >br>
+→ Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort) <br>
 → Vulnerability Assessment and Penetration Testing (Nessus, Metaploit, Burp Suite, OpenVAS, Kali Linux, John the Ripper) <br>
 → Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker) <br>
 
