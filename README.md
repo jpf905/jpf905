@@ -2,66 +2,30 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an experienced mathematician with a passion for data science, cybersecuirty, and artifical intelligence.  I am particularly interested in the connection 
+I am an experienced mathematician with a passion for data science, cybersecuirty, and artifical intelligence.  I am fascinated by the intersection of mathematics, data science, artificial intelligence, and cryptography. Mathematics gives me the tools to think rigorously and abstractly, while data science provides the means to uncover patterns and insights from complex information. Artificial intelligence excites me for its ability to push the boundaries of what machines can learn and do, and cryptography inspires me with its role in securing information and enabling trust in our digital world. What motivates me most is how these fields come together: the mathematical foundations that drive both AI and cryptography, the use of data to strengthen intelligent systems, and the need for privacy and security in an increasingly data-driven society. I am eager to explore these connections further and contribute to advancing knowledge and applications where these disciplines converge.
 
-→ Engaged online community across multiple platforms  <br>
-→ Regular content production with a focus on practical data science tips and business strategies <br>
 
 ## My skills
-→ Data cleaning, exploration, analysis, and visualization (Python) <br>
-→ big data (PySpark) <br>
-→ ML Engineering (MLFlow, FastAPI, Docker)  <br>
-→ MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
+### Data Science
+→ Data cleaning, exploration, analysis, and visualization (Python, R, Rust) <br>
+→ big data (PySpark, MongoDB, ) <br>
 → Database management (MySQL, PostgreSQL) <br>
 
+### Machine Learning
+→ ML Engineering (MLFlow, FastAPI, Docker)  <br>
+→ MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
+
+### Cybersecurity
+→ SIEM platforms (Splunk, Elastic Stack)
+→ Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort)
+→ Vulnerability Assessment and Penetration Testing (Nessus, Metaploit, Burp Suite, OpenVAS, Kali Linux, John the Ripper)
+→ Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker)
 
 
-## Tools
-
-### Data Science
 
 
-#### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Penetration and Vulnerability Testing
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-6C3C2F?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-4B92DB?&style=for-the-badge&logo=wireshark&logoColor=white" />
-</div>
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-AWS_Certified_Solutions_Architect-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
-</div>
 
-## Projects
-- Test Project
-- Detection Lab
 - SOC Automation Project
 - 
