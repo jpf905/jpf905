@@ -12,7 +12,7 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 ## My skills
 ### Data Science
 → Data cleaning, exploration, analysis, and visualization (Python, R, Rust) <br>
-→ big data (PySpark, MongoDB, ) <br>
+→ Big data (PySpark, MongoDB, ) <br>
 → Database management (MySQL, PostgreSQL) <br>
 
 ### Machine Learning
