@@ -3,7 +3,7 @@
 
 
 I am an experienced mathematician with a passion for data science, cybersecurity, and artifical intelligence.<br>
-With a strong background in applied mathematics and analysis, I am detail-oriented and analytically driven. Responsible, articulate, and always learning, I am eager to work in areas of data science, artificial intelligence, cybersecurity, database management, and cryptography. 
+With a strong foundation in applied mathematics and analytical problem-solving, I am detail-oriented, responsible, and continually expanding my knowledge. I am eager to contribute in the fields of data science, artificial intelligence, cybersecurity, database management, and cryptography. <br>
 
 
 I am fascinated by the intersection of mathematics, data science, artificial intelligence, and cryptography. Mathematics gives me the tools to think rigorously and abstractly, while data science provides the means to uncover patterns and insights from complex information. Artificial intelligence excites me for its ability to push the boundaries of what machines can learn and do, and cryptography inspires me with its role in securing information and enabling trust in our digital world. What motivates me most is how these fields come together: the mathematical foundations that drive both AI and cryptography, the use of data to strengthen intelligent systems, and the need for privacy and security in an increasingly data-driven society. I am eager to explore these connections further and contribute to advancing knowledge and applications where these disciplines converge.
