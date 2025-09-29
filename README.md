@@ -26,6 +26,14 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 → Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker) <br>
 
 
+## **Portfolio Projects**
+
+### **Data Science Projects**
+
+
+
+### **Machine Learning Projects**
+
 
 
 
