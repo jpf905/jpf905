@@ -30,7 +30,7 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ### **Data Science Projects**
 
-[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization)]
+[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization)
 
 ### **Machine Learning Projects**
 
