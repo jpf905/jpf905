@@ -33,6 +33,13 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 [Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization)
 
 ### **Machine Learning Projects**
+[Video Games Data Analysis and Machine Learning Recommender](https://github.com/jpf905/Video_games_data_analysis_ML)
+[Text Recognition/Detection with OpenCV and OCR (Optical Character Recognition)](https://github.com/jpf905/Text-Recognition-Detection-with-OpenCV-and-OCR)
+[Anomaly Detection in Time Series](https://github.com/jpf905/Anomaly-Detection-in-Time-Series)
+[Synthetic Images with DCGANs (Deep Convolutional Generative Adversarial Networks)](https://github.com/jpf905/Synthetic_Images_with_DCGANs)
+
+### **Cybersecurity/Cryptography Projects**
+[Caesar Cipher](https://github.com/jpf905/caesar-cipher-)
 
 
 
