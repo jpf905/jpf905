@@ -36,6 +36,8 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 [Major League Baseball RBI Regression](https://github.com/jpf905/MLB-RBI-Prediction-using-Linear-Regression)<br>
 
+[Encrypted Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
+
 [Video Games Data Analysis and Machine Learning Recommender](https://github.com/jpf905/Video_games_data_analysis_ML) <br>
 
 [Text Recognition/Detection with OpenCV and OCR (Optical Character Recognition)](https://github.com/jpf905/Text-Recognition-Detection-with-OpenCV-and-OCR) <br>
