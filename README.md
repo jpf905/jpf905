@@ -28,13 +28,13 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ## **Portfolio Projects**
 
-### **Data Science Projects**
+### **Data Science and Machine Learning Projects**
 
-[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization)
-
-### **Machine Learning Projects**
+[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization) <br>
 
 [Major League Baseball RBI Regression](https://github.com/jpf905/MLB-RBI-Prediction-using-Linear-Regression)<br>
+
+[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard)<br>
 
 [Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
 
@@ -47,6 +47,7 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 [Synthetic Images with DCGANs (Deep Convolutional Generative Adversarial Networks)](https://github.com/jpf905/Synthetic_Images_with_DCGANs) <br>
 
 ### **Cybersecurity/Cryptography Projects**
+[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 [Caesar Cipher](https://github.com/jpf905/caesar-cipher-)
 
 
