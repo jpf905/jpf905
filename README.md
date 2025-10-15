@@ -30,15 +30,15 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ### **Data Science and Machine Learning Projects**
 
-[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization) <br>
+[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard)<br>
 
 [Major League Baseball RBI Regression](https://github.com/jpf905/MLB-RBI-Prediction-using-Linear-Regression)<br>
-
-[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard)<br>
 
 [Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
 
 [Video Games Data Analysis and Machine Learning Recommender](https://github.com/jpf905/Video_games_data_analysis_ML) <br>
+
+[Google Search Analysis and Visualization](https://github.com/jpf905/Google-Search-Analysis-and-Visualization) <br>
 
 [Text Recognition/Detection with OpenCV and OCR (Optical Character Recognition)](https://github.com/jpf905/Text-Recognition-Detection-with-OpenCV-and-OCR) <br>
 
@@ -48,6 +48,7 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ### **Cybersecurity/Cryptography Projects**
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
+
 [Caesar Cipher](https://github.com/jpf905/caesar-cipher-)
 
 
