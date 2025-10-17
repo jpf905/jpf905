@@ -48,6 +48,9 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 [Synthetic Images with DCGANs (Deep Convolutional Generative Adversarial Networks)](https://github.com/jpf905/Synthetic_Images_with_DCGANs) <br>
 
+### **Data Engineering Projects**
+[Data-Cleaning Pipeline & Dashboard](https://github.com/jpf905/Data-Cleaning-Project?tab=readme-ov-file) <br>
+
 ### **Cybersecurity/Cryptography Projects**
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 
