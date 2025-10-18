@@ -27,10 +27,10 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ### Mathematics
 Mathematics is my original area of training. My areas of study and interests include: <br>
-*  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)
-*  Number Theory
-*  Mathematical Logic (Proof Theory; Computability Theory)
-*  Statistics and Probability
+→  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)
+→  Number Theory
+→  Mathematical Logic (Proof Theory; Computability Theory)
+→  Statistics and Probability
 
 
 ## **Portfolio Projects**
@@ -61,7 +61,8 @@ Mathematics is my original area of training. My areas of study and interests inc
 ### **Cybersecurity/Cryptography Projects**
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 
-
+### **Data Science with Advanced Mathematics**
+[Lie Groups and Representation Learning: Learning Symmetry-Informed Neural Networks](https://github.com/jpf905/Lie-Groups-and-Representation-Learning)
 
 
 
