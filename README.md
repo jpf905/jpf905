@@ -11,26 +11,26 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 
 ## My skills
 ### Data Science
-→ Data cleaning, exploration, analysis, and visualization (Python, R, Rust) <br>
-→ Big data (PySpark, MongoDB, ) <br>
-→ Database management (MySQL, PostgreSQL) <br>
+* Data cleaning, exploration, analysis, and visualization (Python, R, Rust) <br>
+* Big data (PySpark, MongoDB, ) <br>
+* Database management (MySQL, PostgreSQL) <br>
 
 ### Machine Learning
-→ ML Engineering (MLFlow, FastAPI, Docker)  <br>
-→ MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
+* ML Engineering (MLFlow, FastAPI, Docker)  <br>
+* MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
 
 ### Cybersecurity
-→ SIEM platforms (Splunk, Elastic Stack) <br>
-→ Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort) <br>
-→ Vulnerability Assessment and Penetration Testing (Nessus, Metaploit, Burp Suite, OpenVAS, Kali Linux, John the Ripper) <br>
-→ Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker) <br>
+*  SIEM platforms (Splunk, Elastic Stack) <br>
+*  Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort) <br>
+* Vulnerability Assessment and Penetration Testing (Nessus, Metaploit, Burp Suite, OpenVAS, Kali Linux, John the Ripper) <br>
+* Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker) <br>
 
 ### Mathematics
 Mathematics is my original area of training. My areas of study and interests include: <br>
-→  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)<br>
-→  Number Theory <br>
-→  Mathematical Logic (Proof Theory; Computability Theory) <br>
-→  Statistics and Probability <br>
+*  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)<br>
+*  Number Theory <br>
+*  Mathematical Logic (Proof Theory; Computability Theory) <br>
+*  Statistics and Probability <br>
 
 
 ## **Portfolio Projects**
