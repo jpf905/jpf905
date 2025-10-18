@@ -25,6 +25,13 @@ I am fascinated by the intersection of mathematics, data science, artificial int
 → Vulnerability Assessment and Penetration Testing (Nessus, Metaploit, Burp Suite, OpenVAS, Kali Linux, John the Ripper) <br>
 → Cryptography (VeraCrypt, Kruptos 2, Boxcryptor, Docker) <br>
 
+### Mathematics
+Mathematics is my original area of training. My areas of study and interests include: <br>
+*  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)
+*  Number Theory
+*  Mathematical Logic (Proof Theory; Computability Theory)
+*  Statistics and Probability
+
 
 ## **Portfolio Projects**
 
