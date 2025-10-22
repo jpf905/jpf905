@@ -61,8 +61,11 @@ Mathematics is my original area of training. My areas of study and interests inc
 ### **Cybersecurity/Cryptography Projects**
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 
+[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
+
 ### **Data Science with Advanced Mathematics Projects**
-[Lie Groups and Representation Learning: Learning Symmetry-Informed Neural Networks](https://github.com/jpf905/Lie-Groups-and-Representation-Learning)
+[Lie Groups and Representation Learning: Learning Symmetry-Informed Neural Networks](https://github.com/jpf905/Lie-Groups-and-Representation-Learning) <br>
+
 
 ### **General Programming Projects**
 [C++ Ray Tracer — Physically Inspired Rendering from Scratch](https://github.com/jpf905/Ray-Tracer-CPP)
