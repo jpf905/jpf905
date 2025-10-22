@@ -63,6 +63,8 @@ Mathematics is my original area of training. My areas of study and interests inc
 
 [Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
 
+[Lockbox — A Modern File & Secret Encryptor](https://github.com/jpf905/Lockbox-A-Modern-File-Secret-Encryptor)<br>
+
 ### **Data Science with Advanced Mathematics Projects**
 [Lie Groups and Representation Learning: Learning Symmetry-Informed Neural Networks](https://github.com/jpf905/Lie-Groups-and-Representation-Learning) <br>
 
