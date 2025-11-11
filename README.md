@@ -41,8 +41,6 @@ Mathematics is my original area of training. My areas of study and interests inc
 
 [Major League Baseball RBI Regression](https://github.com/jpf905/MLB-RBI-Prediction-using-Linear-Regression)<br>
 
-[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
-
 [Data-Cleaning Pipeline & Dashboard](https://github.com/jpf905/Data-Cleaning-Project?tab=readme-ov-file) <br>
 
 [Video Games Data Analysis and Machine Learning Recommender](https://github.com/jpf905/Video_games_data_analysis_ML) <br>
@@ -59,6 +57,8 @@ Mathematics is my original area of training. My areas of study and interests inc
 [Data-Cleaning Pipeline & Dashboard](https://github.com/jpf905/Data-Cleaning-Project?tab=readme-ov-file) <br>
 
 ### **Cybersecurity/Cryptography Projects**
+[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
+
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 
 [Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
