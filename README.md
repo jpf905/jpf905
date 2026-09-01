@@ -17,8 +17,8 @@ I am deeply interested in cybersecurity, particularly the ways mathematics, cryp
 
 ### Mathematics
 Mathematics is my original area of training. My areas of study and interests include: <br>
-*  Mathematical Logic (Proof Theory; Computability Theory) <br>
 *  Abstract Algebra (Group Theory; Lie Groups & Lie Algebras; Representation Theory; Category Theory; Universal Algebra; Computational Algebra)<br>
+*  Mathematical Logic (Proof Theory; Computability Theory) <br>
 *  Number Theory <br>
 *  Statistics and Probability <br>
 
@@ -30,6 +30,9 @@ Mathematics is my original area of training. My areas of study and interests inc
 ## **Portfolio Projects**
 
 ### **Cybersecurity/Cryptography Projects**
+
+[SOC Detection Engineering Lab]
+
 [Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
 
 [Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
