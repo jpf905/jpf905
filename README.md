@@ -2,23 +2,13 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an experienced mathematician with a passion for data science, cybersecurity, and artifical intelligence.<br>
-With a strong foundation in applied mathematics and analytical problem-solving, I am detail-oriented, responsible, and continually expanding my knowledge. I am eager to contribute in the fields of data science, artificial intelligence, cybersecurity, database management, and cryptography. <br>
+Mathematician and cybersecurity analyst with a strong foundation in applied mathematics, programming, and analytical problem-solving. Hands-on experience with network analysis, vulnerability assessment, security monitoring, and tools including Wireshark, Nmap, Nessus, Splunk, and Kali Linux. Detail-oriented and focused on network security, threat detection, cryptography, and cyber defense. <br>
 
 
-I am fascinated by the intersection of mathematics, data science, artificial intelligence, and cryptography. Mathematics gives me the tools to think rigorously and abstractly, while data science provides the means to uncover patterns and insights from complex information. Artificial intelligence excites me for its ability to push the boundaries of what machines can learn and do, and cryptography inspires me with its role in securing information and enabling trust in our digital world. What motivates me most is how these fields come together: the mathematical foundations that drive both AI and cryptography, the use of data to strengthen intelligent systems, and the need for privacy and security in an increasingly data-driven society. I am eager to explore these connections further and contribute to advancing knowledge and applications where these disciplines converge.
+I am deeply interested in cybersecurity, particularly the ways mathematics, cryptography, data analysis, and artificial intelligence can be used to protect information and strengthen digital systems. My background in mathematics has developed my ability to think logically, solve complex problems, and approach technical challenges systematically. I am especially drawn to areas such as network security, threat detection, vulnerability analysis, penetration testing, and cryptography. As cyber threats continue to evolve, I am excited by the challenge of identifying vulnerabilities, analyzing security risks, and developing effective defenses. My goal is to continue building practical cybersecurity skills while applying my analytical background to help protect systems, networks, and data from emerging threats.
 
 
 ## My skills
-### Data Science
-* Data cleaning, exploration, analysis, and visualization (Python, R, Rust) <br>
-* Big data (PySpark, MongoDB, ) <br>
-* Database management (MySQL, PostgreSQL) <br>
-
-### Machine Learning
-* ML Engineering (MLFlow, FastAPI, Docker)  <br>
-* MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
-
 ### Cybersecurity
 *  SIEM platforms (Splunk, Elastic Stack) <br>
 *  Network Monitoring and Analysis (Wireshark, Nmap, Tcpdump, Snort) <br>
@@ -32,14 +22,23 @@ Mathematics is my original area of training. My areas of study and interests inc
 *  Number Theory <br>
 *  Statistics and Probability <br>
 
+### Machine Learning
+* ML Engineering (MLFlow, FastAPI, Docker)  <br>
+* MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
+
 
 ## **Portfolio Projects**
 
-### **Data Science and Machine Learning Projects**
+### **Cybersecurity/Cryptography Projects**
+[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
 
-[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard)<br>
+[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
 
-[Major League Baseball RBI Regression](https://github.com/jpf905/MLB-RBI-Prediction-using-Linear-Regression)<br>
+[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
+
+[Lockbox — A Modern File & Secret Encryptor](https://github.com/jpf905/Lockbox-A-Modern-File-Secret-Encryptor)<br>
+
+### Machine Learning Projects**
 
 [Data-Cleaning Pipeline & Dashboard](https://github.com/jpf905/Data-Cleaning-Project?tab=readme-ov-file) <br>
 
@@ -53,17 +52,6 @@ Mathematics is my original area of training. My areas of study and interests inc
 
 [Synthetic Images with DCGANs (Deep Convolutional Generative Adversarial Networks)](https://github.com/jpf905/Synthetic_Images_with_DCGANs) <br>
 
-### **Data Engineering Projects**
-[Data-Cleaning Pipeline & Dashboard](https://github.com/jpf905/Data-Cleaning-Project?tab=readme-ov-file) <br>
-
-### **Cybersecurity/Cryptography Projects**
-[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
-
-[Post-Quantum Cryptography Visualization Dashboard](https://github.com/jpf905/Post-Quantum-Cryptography-Visualization-Dashboard) <br>
-
-[Encrypted Network Traffic Classification using Machine Learning](https://github.com/jpf905/Encrypted-Traffic-Classification-using-Machine-Learning/blob/main/README.md) <br>
-
-[Lockbox — A Modern File & Secret Encryptor](https://github.com/jpf905/Lockbox-A-Modern-File-Secret-Encryptor)<br>
 
 ### **Data Science with Advanced Mathematics Projects**
 [Lie Groups and Representation Learning: Learning Symmetry-Informed Neural Networks](https://github.com/jpf905/Lie-Groups-and-Representation-Learning) <br>
